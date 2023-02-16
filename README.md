@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sorry, most of my projects are private.
+Most of my projects are private.
 
 <!--
 **SangAhLee/SangAhLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
